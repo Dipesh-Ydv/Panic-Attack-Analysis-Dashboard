@@ -55,7 +55,7 @@ The insights are derived from real patient data stored in **Snowflake** and visu
 
 ### 🔹 3. **Triggers & Frequency Patterns**
 
-![Triggers Dashboard](./path/to/Screenshot_3.png)
+![Triggers Dashboard](./screenshots/Screenshot_3.png)
 
 **Insights:**
 - **PTSD** is the most commonly reported trigger across patients.
@@ -98,7 +98,7 @@ The insights are derived from real patient data stored in **Snowflake** and visu
 ├── Themes/
 │   ├── Panic_attack_dashboard_theme.json
 ├── README.md
-└── Panic_Attack_Analysis.pbix
+└── Panic_Attack_Analysis_Dashboard.pbix
 ```
 
 ---

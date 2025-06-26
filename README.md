@@ -106,8 +106,8 @@ The insights are derived from real patient data stored in **Snowflake** and visu
 ## 📬 Contact & Collaboration
 
 Want to collaborate, give feedback, or hire me for BI/Data projects?  
-📧 Email: dipeshyadav4444@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/dipesh-yadav-datascientist/)
+📧 Email: dipeshyadav4444@gmail.com  
 
 ---
 

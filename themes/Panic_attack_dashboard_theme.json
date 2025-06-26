@@ -1,0 +1,33 @@
+{
+    "name": "Symptoms Overview Theme",
+    "dataColors": [
+        "#5A7D9A",
+        "#C39EA0",
+        "#C7D3C2",
+        "#A9A9A9",
+        "#D4B5A7"
+    ],
+    "background": "#F7F7F7",
+    "foreground": "#000000",
+    "tableAccent": "#5A7D9A",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#F7F7F7"
+                        }
+                    }
+                ],
+                "border": [
+                    {
+                        "solid": {
+                            "color": "#E6E6E6"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
